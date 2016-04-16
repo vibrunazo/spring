@@ -8,3 +8,9 @@ By Blueprint Newbies
 
 - vib
 - Yaggdrizzill
+
+Credits:
+
+Muzzle flash mesh: http://opengameart.org/content/muzzle-flash-with-model
+
+Laser audio: http://opengameart.org/content/laser-fire
