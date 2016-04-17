@@ -16,3 +16,9 @@ Muzzle flash mesh: http://opengameart.org/content/muzzle-flash-with-model
 Laser audio: http://opengameart.org/content/laser-fire
 
 Impact sounds: http://opengameart.org/content/impact
+
+Heart sprite: http://opengameart.org/content/hearts-set-01
+
+Steam sound: http://opengameart.org/content/steam-release-sounds
+
+Health sound: https://apricot.blender.org/download/
